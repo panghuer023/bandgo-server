@@ -1,0 +1,64 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 00:03:22.109	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 00:03:22.109	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 00:03:22.119	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 00:03:22.144	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 04:17:30.593	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 04:17:30.594	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 04:17:30.604	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 04:17:30.604	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:24:32.903	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:24:32.903	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:24:32.915	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:24:32.916	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:25:22.574	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:25:22.575	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:25:22.586	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:25:22.586	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:39:38.322	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:39:38.322	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:39:38.333	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 09:39:38.333	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:27:27.579	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:27:27.580	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:27:27.592	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:27:27.592	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:30:33.767	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:30:33.768	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:30:33.779	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:30:33.780	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:39:07.062	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:39:07.063	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:39:07.073	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:39:07.073	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:43:01.127	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:43:01.128	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:43:01.137	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 10:43:01.137	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:03:24.198	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:03:24.199	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:03:24.210	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:03:24.210	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:06:07.089	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:06:07.090	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:06:07.101	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:06:07.101	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:12:28.728	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:12:28.729	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:12:28.742	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:12:28.742	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:13:46.450	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:13:46.451	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:13:46.462	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:126	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:13:46.462	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:20:17.342	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:20:17.343	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:20:17.354	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:128	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:20:17.354	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:22:02.802	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:22:02.803	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:22:02.814	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:128	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:22:02.814	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:37:35.592	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/gorm.go:105	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:37:35.592	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:37:35.604	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:128	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-03 11:37:35.604	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}

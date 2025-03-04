@@ -1,0 +1,20 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 11:06:31.790	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 11:06:31.791	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 11:06:31.791	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 11:06:31.791	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:26:16.491	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:26:16.492	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:26:16.492	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:26:16.492	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:29:18.989	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:29:18.991	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:29:18.991	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:29:18.991	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:39:01.949	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:39:01.950	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:39:01.950	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:39:01.950	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:46:41.360	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:46:41.361	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:46:41.361	[34minfo[0m	/data/hejiawen/projects/band-go/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:46:41.361	[34minfo[0m	/data/hejiawen/projects/band-go/server/core/server.go:38	server run success on 	{"address": ":8888"}

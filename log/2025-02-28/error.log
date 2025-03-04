@@ -1,0 +1,4 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 14:27:46.565	[31merror[0m	/data/hejiawen/projects/band-go/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:29:08.079	[31merror[0m	/data/hejiawen/projects/band-go/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:33:37.544	[31merror[0m	/data/hejiawen/projects/band-go/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
+[github.com/flipped-aurora/gin-vue-admin/server]2025-02-28 16:46:15.622	[31merror[0m	/data/hejiawen/projects/band-go/server/core/server.go:54	accept tcp [::]:8888: use of closed network connection
